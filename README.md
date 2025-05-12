@@ -49,7 +49,7 @@ This space is my lab, my forge, my grimoire — each repository a lived question
 ### 📊 Stats
 
 ![Tsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Tsage's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=shadow_green&hide_border=false)<br/>
+![Tsage's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=gruvbox&hide_border=false)<br/>
 
 
 <br />
