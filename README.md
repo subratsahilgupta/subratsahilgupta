@@ -1,21 +1,73 @@
-# About Me:
-👋 Hello, I’m Subrat Sahil Gupta— a passionate data scientist and developer who believes in the transformative power of data and intelligent systems. For me, coding is more than syntax — it’s a tool for discovery, problem-solving, and creating change where it matters most.<br>Driven by curiosity and a deep interest in innovation, I explore everything from machine learning and computer vision to building intuitive tools using Python and PyQt5. My work is rooted in purpose — turning raw data into insights, models, and real-world solutions that empower decision-making and inspire progress.<br>I see every challenge as an opportunity to grow, and every project as a step toward unlocking the full potential of data for impact at scale. Whether I’m experimenting with neural networks or crafting a simple user interface, I aim to build with intention and clarity.<br><br>Feel free to explore my work below — every repository here reflects a question asked, a challenge embraced, and a solution pursued.<br>
+# 🧙‍♂️ Tsage
+
+**`metaTsage (Machine Whisperer | Visioneer Gallant | Code Ritualist)`**
+
+> I sigil ideas with code, wrangle data into stories, and build tools that just make sense.
+
+I’m a scientist and machine whisperer who believes in the transformative power of data, drawn to the hidden patterns within chaos. For me, code isn’t just syntax; it’s spellwork — a way to summon insight, unravel complexity, and conjure clarity from raw information.
+Fueled by curiosity and a deep interest in innovation, I traverse machine learning landscapes, computer vision realms, and interface crafting sanctuaries — wielding Python, PyQt5 and Django like ritual tools. Every project I touch aims to alchemize the mundane into the meaningful, the obscure into the obvious, unlocking the full potential of data for impact at scale.
+Challenges are not roadblocks but riddles; puzzles that reveal potential. I don’t just write code — I architect clarity, prototype purpose, and engineer intuition.
+This space is my lab, my forge, my grimoire — each repository a lived question, each commit a piece of the answer.
+
+<p align="left">
+  <a href="https://instagram.com/subratsahilgupta" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/@subratsahilgupta-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/subratsahilgupta" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/subratsahilgupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/metaTsage" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/@metaTsage-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:subratsahilgupta@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subratsahilgupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subratsahilgupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/metaTsage) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subratsahilgupta@gmail.com) 
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subratsahilgupta&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subratsahilgupta&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+### 🧰 Languages and Tools
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subratsahilgupta&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="SQLite" title="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+<img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img alt="OpenCV" title="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+<img alt="PyTorch" title="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img alt="Pandas" title="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img alt="NumPy" title="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+
+<img alt="Django" title="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="Anaconda" title="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
+
+<!-- <img alt="React Native" title="React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> -->
+<!-- <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> -->
+<!-- <img alt="TensorFlow" title="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> -->
+</div>
+
+<br />
+
+
+#
+
+### 📊 Stats
+
+![Tsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Tsage's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=shadow_green&hide_border=false)<br/>
+
