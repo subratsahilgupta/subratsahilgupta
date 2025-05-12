@@ -9,23 +9,6 @@ Fueled by curiosity and a deep interest in innovation, I traverse machine learni
 Challenges are not roadblocks but riddles; puzzles that reveal potential. I don’t just write code — I architect clarity, prototype purpose, and engineer intuition.
 This space is my lab, my forge, my grimoire — each repository a lived question, each commit a piece of the answer.
 
-<p align="left">
-  <a href="https://instagram.com/subratsahilgupta" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/@subratsahilgupta-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/subratsahilgupta" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/subratsahilgupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/metaTsage" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/@metaTsage-black?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:subratsahilgupta@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-
 ---
 
 ### 🧰 Languages and Tools
@@ -56,12 +39,9 @@ This space is my lab, my forge, my grimoire — each repository a lived question
 <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img alt="Anaconda" title="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
 
-<!-- <img alt="React Native" title="React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> -->
-<!-- <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> -->
-<!-- <img alt="TensorFlow" title="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> -->
 </div>
 
-<br />
+
 
 
 #
@@ -71,3 +51,38 @@ This space is my lab, my forge, my grimoire — each repository a lived question
 ![Tsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Tsage's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=shadow_green&hide_border=false)<br/>
 
+
+<br />
+<br />
+<br />
+<br />
+
+<!-- Connect With Me Section -->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me ☕️</h2></summary>
+  </ul>
+</div>
+
+<!-- Social Media Icons (Large & Centered) -->
+<p align="center">
+  <a href="https://instagram.com/subratsahilgupta" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" height="60" />
+  </a>
+  <a href="https://linkedin.com/in/subratsahilgupta" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" height="60" />
+  </a>
+  <a href="https://x.com/metaTsage" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/twitter.png" alt="X" height="60" />
+  </a>
+  <a href="mailto:subratsahilgupta@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Gmail" height="60" />
+  </a>
+</p>
+
+<!-- Visitor Count -->
+<h3 align="center">Visitor count</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/metaTsage/count.svg" />
+</p>
