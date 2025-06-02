@@ -72,17 +72,17 @@ This space is my lab, my forge, my grimoire — each repository a lived question
 
 <!-- Social Media Icons (Large & Centered) -->
 <p align="center">
-  <a href="https://instagram.com/subratsahilgupta" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" height="60" />
-  </a>
-  <a href="https://linkedin.com/in/subratsahilgupta" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" height="60" />
+  <a href="mailto:subratsahilgupta@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Gmail" height="60" />
   </a>
   <a href="https://x.com/metaTsage" target="_blank">
     <img src="https://img.icons8.com/fluency/96/twitter.png" alt="X" height="60" />
   </a>
-  <a href="mailto:subratsahilgupta@gmail.com">
-    <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Gmail" height="60" />
+  <a href="https://linkedin.com/in/subratsahilgupta" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" height="60" />
+  </a>
+  <a href="https://instagram.com/subratsahilgupta" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" height="60" />
   </a>
 </p>
 
