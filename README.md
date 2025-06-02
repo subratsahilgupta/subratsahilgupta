@@ -4,7 +4,7 @@
 
 > I sigil ideas with code, wrangle data into stories, and build tools that just make sense.
 
-I’m a scientist and machine whisperer who believes in the transformative power of data, drawn to the hidden patterns within chaos.
+I’m a data scientist and machine whisperer who believes in the transformative power of data, drawn to the hidden patterns within chaos.
 For me, code isn’t just syntax; it’s spellwork — a way to summon insight, unravel complexity, and conjure clarity from raw information.
 
 Fueled by curiosity and a deep interest in innovation, I traverse machine learning landscapes, computer vision realms, and interface crafting sanctuaries — wielding Python, PyQt5 and Django like ritual tools. Every project I touch aims to alchemize the mundane into the meaningful, the obscure into the obvious — unlocking the full potential of data for impact at scale.
