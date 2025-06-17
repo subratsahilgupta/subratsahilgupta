@@ -1,9 +1,10 @@
 # 🧙‍♂️ Tsage
 
-**`metaTsage (Machine Whisperer | Visioneer Gallant | Code Ritualist)`**
+**`metaTsage (GTM Engineer | Machine Whisperer | Visioneer Gallant)`**
 
 > I sigil ideas with code, wrangle data into stories, and build tools that just make sense.
 
+<!--
 I’m a data scientist and machine whisperer who believes in the transformative power of data, drawn to the hidden patterns within chaos.
 For me, code isn’t just syntax; it’s spellwork — a way to summon insight, unravel complexity, and conjure clarity from raw information.
 
@@ -12,6 +13,19 @@ Fueled by curiosity and a deep interest in innovation, I traverse machine learni
 Challenges are not roadblocks but riddles; puzzles that reveal potential. I don’t just write code — I architect clarity, prototype purpose, and engineer intuition.
 
 This space is my lab, my forge, my grimoire — each repository a lived question, each commit a piece of the answer.
+-->
+
+
+I make ideas actually work.
+
+My experience spans strategic tech collaborations and building user-centric platforms that smooth onboarding and drive engagement.
+It’s not just about shipping features, but supporting clean client acquisition and building systems that hook and retain.
+
+I dig working on problems that are early, evolving, or hard to define — the kind that require patience, sharp thinking, and thoughtful engineering.
+
+This space is my lab and my forge — each repository a lived question, each commit a piece of the answer.
+
+Always open to building something new — or helping make what you already have, work better.
 
 ---
 
