@@ -99,7 +99,9 @@ Always open to building something new — or helping make what you already have 
 </p>
 
 <!-- Visitor Count -->
-<h3 align="center">Visitor count</h3>
+<!-- <h3 align="center">Visitor count</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/metaTsage/count.svg" />
-</p>
+</p> -->
+
+
