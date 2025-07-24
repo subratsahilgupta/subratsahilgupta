@@ -27,7 +27,7 @@ Always open to building something new — or helping make what you already have 
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Forgegear
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
