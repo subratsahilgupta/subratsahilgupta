@@ -33,6 +33,8 @@ I engineer systems that engage, convert, and grow. It’s not just about shippin
 
 I thrive in early, evolving, hard-to-define spaces — forging them into systems that are clear, efficient, and ready to scale.
 
+This space is my lab and my forge — each repository a lived question, each commit a piece of the answer.
+
 Always open to building something new — or helping make what you already have work better.
 
 ---
