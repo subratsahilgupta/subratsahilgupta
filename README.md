@@ -4,29 +4,6 @@
 
 > I sigil ideas with code, wrangle data into stories, and build tools that just make sense.
 
-<!--
-I’m a data scientist and machine whisperer who believes in the transformative power of data, drawn to the hidden patterns within chaos.
-For me, code isn’t just syntax; it’s spellwork — a way to summon insight, unravel complexity, and conjure clarity from raw information.
-
-Fueled by curiosity and a deep interest in innovation, I traverse machine learning landscapes, computer vision realms, and interface crafting sanctuaries — wielding Python, PyQt5 and Django like ritual tools. Every project I touch aims to alchemize the mundane into the meaningful, the obscure into the obvious — unlocking the full potential of data for impact at scale.
-
-Challenges are not roadblocks but riddles; puzzles that reveal potential. I don’t just write code — I architect clarity, prototype purpose, and engineer intuition.
-
-This space is my lab, my forge, my grimoire — each repository a lived question, each commit a piece of the answer.
--->
-
-<!--
-I make ideas actually work.
-
-My experience spans strategic tech collaborations and building user-centric platforms that smooth onboarding and drive engagement. It’s not just about shipping features, but about supporting clean client acquisition and building systems that hook and retain.
-
-I dig working on problems that are early, evolving, or hard to define — the kind that require patience, sharp thinking, and thoughtful engineering.
-
-This space is my lab and my forge — each repository a lived question, each commit a piece of the answer.
-
-Always open to building something new — or helping make what you already have work better.
--->
-
 I build products and growth hooks that bridge DX & GTM — and make ideas actually work.
 
 I engineer systems that engage, convert, and grow. It’s not just about shipping features, but about supporting clean client acquisition, smooth onboarding, and retention loops that keep users hooked.
@@ -40,7 +17,7 @@ Always open to building something new — or helping make what you already have 
 ---
 
 ### 🛠️ Forgegear
-**`Languages and Tools`**
+**`Tools of the Trade`**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
@@ -64,6 +41,9 @@ Always open to building something new — or helping make what you already have 
 <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img alt="Go" title="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+
+<img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+<img alt="AWS" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 
 <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
