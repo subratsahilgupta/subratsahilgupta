@@ -15,6 +15,7 @@ Challenges are not roadblocks but riddles; puzzles that reveal potential. I don�
 This space is my lab, my forge, my grimoire — each repository a lived question, each commit a piece of the answer.
 -->
 
+<!--
 I make ideas actually work.
 
 My experience spans strategic tech collaborations and building user-centric platforms that smooth onboarding and drive engagement. It’s not just about shipping features, but about supporting clean client acquisition and building systems that hook and retain.
@@ -22,6 +23,15 @@ My experience spans strategic tech collaborations and building user-centric plat
 I dig working on problems that are early, evolving, or hard to define — the kind that require patience, sharp thinking, and thoughtful engineering.
 
 This space is my lab and my forge — each repository a lived question, each commit a piece of the answer.
+
+Always open to building something new — or helping make what you already have work better.
+-->
+
+I build products and growth hooks that bridge DX & GTM — and make ideas actually work.
+
+I engineer systems that engage, convert, and grow. It’s not just about shipping features, but about supporting clean client acquisition, smooth onboarding, and retention loops that keep users hooked.
+
+I thrive in early, evolving, hard-to-define spaces — forging them into systems that are clear, efficient, and ready to scale.
 
 Always open to building something new — or helping make what you already have work better.
 
