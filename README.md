@@ -83,9 +83,9 @@ Always open to building something new — or helping make what you already have 
   <a href="https://linkedin.com/in/subratsahilgupta" target="_blank">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" height="60" />
   </a>
-  <a href="https://x.com/metaTsage" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/twitter.png" alt="X" height="60" />
-  </a>
+ <a href="https://x.com/metaTsage" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023_original.svg" alt="X" height="60" />
+</a>
   <a href="https://instagram.com/subratsahilgupta" target="_blank">
     <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" height="60" />
   </a>
