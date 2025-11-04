@@ -54,7 +54,7 @@ Always open to building something new — or helping make what you already have 
 <br />
 <br />
 
-![@subratsahilgupta's Holopin badges](https://holopin.me/subratsahilgupta)]
+![@subratsahilgupta's Holopin badges](https://holopin.me/subratsahilgupta)
 <br />
 <br />
 
