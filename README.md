@@ -51,15 +51,13 @@ Always open to building something new — or helping make what you already have 
 
 </div>
 
-[![@subratsahilgupta's Holopin badges](https://holopin.me/subratsahilgupta)](https://holopin.io/@subratsahilgupta)
-
-
 #
 
 ### 📊 Stats
 
 ![Tsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Tsage's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=gruvbox&hide_border=false)<br/>
+[![@subratsahilgupta's Holopin badges](https://holopin.me/subratsahilgupta)](https://holopin.io/@subratsahilgupta)
 
 
 <br />
