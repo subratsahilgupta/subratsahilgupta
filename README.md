@@ -1,25 +1,25 @@
 # 🧙‍♂️ Tsage
 
-**`metaTsage (GTM Engineer | Machine Whisperer | Visioneer Gallant)`**
+**`metaTsage — Systems Builder | Hook Specialist | PR Machine | Machine Whisperer`**
 
-> I sigil ideas with code, wrangle data into stories, and build tools that just make sense.
+> I make ideas actually work and build tools that just make sense.
 
-I build products and growth hooks that bridge DX & GTM — and make ideas actually work.
+I build systems at the intersection of infrastructure, product behavior, and growth mechanics. 
 
-I engineer systems that engage, convert, and grow. It’s not just about shipping features, but about supporting clean client acquisition, smooth onboarding, and retention loops that keep users hooked.
+Designing event-driven, data-intensive systems and product mechanics — infrastructure that doesn’t just run reliably, but actively shapes how products grow, behave, and evolve. 
 
-I thrive in early, evolving, hard-to-define spaces — forging them into systems that are clear, efficient, and ready to scale.
+Engineering systems that engage, convert, and grow. It’s not just about shipping features, but supporting clean client acquisition, smooth onboarding, and retention loops that keep users hooked. 
 
-This space is my lab and my forge — each repository a lived question, each commit a piece of the answer.
+Working through signals, events, and feedback loops — turning usage patterns into reliable workflows and meaningful product behavior. 
+Whether powering internal tooling or client-facing platforms, I design systems for resilience, traceability, and data-intensive scale.
 
-Always open to building something new — or helping make what you already have work better.
+Always open to building something new, or helping make what already exists work better.
 
 ---
 
-### 🛠️ Forgegear
-**`Tools of the Trade`**
+### 🛠️ **`Tools of the Trade`**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
 <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -48,6 +48,38 @@ Always open to building something new — or helping make what you already have 
 <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img alt="Anaconda" title="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
+
+</div> -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  
+<img alt="Go" title="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+<img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="Apache Kafka" title="Apache Kafka" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
+<img alt="Temporal" title="Temporal" width="40px" src="https://temporal.io/favicon.ico"/>
+<img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img alt="AWS" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img alt="OpenCV" title="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+<img alt="Django" title="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+
+<img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="Grafana" title="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+<img alt="Sentry" title="Sentry" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg"/>
+<img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+<img alt="Anaconda" title="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
+
+<img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="SQLite" title="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+<img alt="Pandas" title="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img alt="NumPy" title="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+
+<img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
 </div>
 
