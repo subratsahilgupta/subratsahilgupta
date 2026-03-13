@@ -2,7 +2,7 @@
 
 **`metaTsage — Systems Builder | Hook Specialist | PR Machine | Machine Whisperer`**
 
-> I make ideas actually work and build tools that just make sense.
+> I turn seed ideas into working systems and build tools that just make sense.
 
 I build systems at the intersection of infrastructure, product behavior, and growth mechanics. 
 
@@ -13,7 +13,7 @@ Engineering systems that engage, convert, and grow. It’s not just about shippi
 Working through signals, events, and feedback loops — turning usage patterns into reliable workflows and meaningful product behavior. 
 Whether powering internal tooling or client-facing platforms, I design systems for resilience, traceability, and data-intensive scale.
 
-Always open to building something new, or helping make what already exists work better.
+Always open to building something new or helping make what you already have work better.
 
 ---
 
