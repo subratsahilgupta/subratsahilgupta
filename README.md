@@ -1,17 +1,16 @@
 # 🧙‍♂️ Tsage
 
-**`metaTsage — Systems Builder | Hook Specialist | PR Machine | Machine Whisperer`**
+**`metaTsage — Hook Specialist | PR Machine | Machine Whisperer`**
 
 > I turn seed ideas into working systems and build tools that just make sense.
 
-I build systems at the intersection of infrastructure, product behavior, and growth mechanics. 
+I build product hooks and infrastructure that shape behavior, scale, and growth.
 
-Designing event-driven, data-intensive systems and product mechanics — infrastructure that doesn’t just run reliably, but actively shapes how products grow, behave, and evolve. 
+Data-intensive systems are where I operate, building foundations that don’t just run reliably, but give products room to evolve.
 
-Engineering systems that engage, convert, and grow. It’s not just about shipping features, but supporting clean client acquisition, smooth onboarding, and retention loops that keep users hooked. 
+Engineering systems that engage, convert, and retain. Not just shipping features, but building clean acquisition paths, smooth onboarding, and retention loops that keep users hooked.
 
-Working through signals, events, and feedback loops — turning usage patterns into reliable workflows and meaningful product behavior. 
-Whether powering internal tooling or client-facing platforms, I design systems for resilience, traceability, and data-intensive scale.
+Working through signals, events, and feedback loops, turning usage patterns into reliable workflows and meaningful operational outcomes.
 
 Always open to building something new or helping make what you already have work better.
 
@@ -92,8 +91,9 @@ Always open to building something new or helping make what you already have work
 
 ### 📊 Stats
 
-![Tsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Tsage's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=gruvbox&hide_border=false)<br/>
+![Tsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+
+![Tsage's GitHub Streak](https://streak-stats.demolab.com?user=subratsahilgupta&theme=gruvbox&hide_border=false)
 
 
 <br />
