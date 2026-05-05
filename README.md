@@ -89,11 +89,11 @@ Always open to building something new or helping make what you already have work
 <br />
 <br />
 
-### 📊 Stats
+### 📊 Stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true" alt="Tsage's GitHub stats" />
+![Tsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=subratsahilgupta&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 
-<img src="https://streak-stats.demolab.com?user=subratsahilgupta&theme=gruvbox&hide_border=false" alt="Tsage's GitHub Streak" />
+![Tsage's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subratsahilgupta&theme=gruvbox&hide_border=false)<br/>
 
 <br />
 <br />
